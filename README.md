@@ -1,5 +1,3 @@
 # TipCalculator
 
-'''
-x = "hello"
-'''
+
