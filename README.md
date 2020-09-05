@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 - includes an optional dark mode for the UI
 
 <img src="http://g.recordit.co/w7I9q9IhFI.gif">
+
 ## Notes
 * the main challenge was learning how to use Xcode to create the app. I did now a little bit of Swift beforehand, but working with 
 Xcode and learning about the views and storyboards, along with the UI elemetns such as buttons, getting keyboard input, and segmented controls,
