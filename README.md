@@ -32,7 +32,13 @@ The following **additional** features are implemented:
 
 <img src="http://g.recordit.co/w7I9q9IhFI.gif">
 ## Notes
-- the main challenge was learning how to use Xcode to create the app 
+* the main challenge was learning how to use Xcode to create the app. I did now a little bit of Swift beforehand, but working with 
+Xcode and learning about the views and storyboards, along with the UI elemetns such as buttons, getting keyboard input, and segmented controls,
+was pretty new to me.
+* I am still pretty inexerinced when it comes to iOS development, but I tried my best to make sure that the UI layout made it so that the app 
+would look similar across diffrent screens. However, I was unable to properly execute this, as the scaling looks a little off when changing to
+a differnt phone screen.
+
 
 ## License
 
@@ -49,9 +55,3 @@ The following **additional** features are implemented:
     See the License for the specific language governing permissions and
     limitations under the License.
 
-
-## Notes
-
-Learning to use XCode was a new challange for me. But following the examples and using other resources online, it all started to make sense. I understood how everything worked together: from the storyboard to the scripts that I was writing. 
-I have learned some basic Swift before, so understanding the code wasn't too difficult. 
-The app overall is very simple, and with more experience I'm sure I can add more features and make it even better.
